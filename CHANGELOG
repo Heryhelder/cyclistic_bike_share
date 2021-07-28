@@ -1,0 +1,11 @@
+07_25_2021:
+	adicionado:
+	coluna "day_of_week" através da função "DIA.DA.SEMANA" no libreoffice calc
+
+07_28_2021:
+	alterado:
+	"day_of_week": alterado formato para data no libreoffice calc
+	"number_of_trips": alterado formato para número geral no libreoffice calc
+	"ride_length_average_in_seconds": alterado formato para número geral (com decimal) no libreoffice calc
+	adicionado:
+	nome "id" para o primeiro campo que estava vazio
